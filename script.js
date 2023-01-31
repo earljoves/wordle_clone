@@ -48,7 +48,6 @@ const g6l4 = document.getElementById('g6l4');
 const g6l5 = document.getElementById('g6l5');
 const guess6 = [g6l1, g6l2, g6l3, g6l4, g6l5];
 
-let currentGuess = 1;
 addEventListener('keydown', (event) => {
     TODO
 });
